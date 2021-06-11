@@ -21,5 +21,6 @@ jenkins용 테스트
 <h3>3> push  발생시  jenkins가  빌드 배포한다</h3>
 <h3>4> ===추가, commit, push 된 부분===</h3>
 <h3>5> === webhook 동작 확인용 추가된 부분 ===</h3>
+<h3>6> 테스트 확인</h3>
 </body>
 </html>
